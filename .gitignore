@@ -139,6 +139,7 @@ dmypy.json
 cython_debug/
 
 
+
 # Ignore everything in the data/ directory
 data/*
 
