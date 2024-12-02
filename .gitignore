@@ -137,3 +137,10 @@ dmypy.json
 
 # Cython debug symbols
 cython_debug/
+
+
+# Ignore everything in the data/ directory
+data/*
+
+# Exclude the specific file
+!data/pilot_metadata.csv
